@@ -21,7 +21,7 @@ html {
     padding-inline-start: 0px;
 }
 
-.navigation__listItem {
+.navigation__item {
     margin: 15px auto;
     display: inline;
     padding: 10px;
