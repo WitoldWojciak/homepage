@@ -7,7 +7,7 @@ let themeNameColor = document.querySelector(".body__themeNameColor");
 button.addEventListener("click", () => {
     body.classList.toggle("dark");
 
-    themeNameColor.innerText = body.classList.contains(".dark") ? "niebieskie" : "ciemne";
+    themeNameColor.innerText = body.classList.contains("dark") ? "niebieskie" : "ciemne";
 });
 
 
