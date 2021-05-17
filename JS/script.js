@@ -1,6 +1,6 @@
 console.log("Cześć! Ciesze się, że sprawdzasz mój kod, daj znać jak coś nie zostało zrobione dobrze :)")
 
-let button = document.querySelector(".js-body__button");
+let button = document.querySelector(".js-backgroundSwitcher");
 let body = document.querySelector(".body");
 let themeNameColor = document.querySelector(".body__themeNameColor");
 
